@@ -13,5 +13,4 @@ int main()
 {
     for (int count = 0; count < 11; ++count)
         std::cout << fibonacci(count) << " ";
-
 }
